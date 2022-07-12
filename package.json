@@ -1,0 +1,15 @@
+{
+  "name": "cmdline-business-logic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^9.0.0",
+    "json-server": "^0.17.0",
+    "lowdb": "^3.0.0",
+    "node-fetch": "^3.2.7",
+    "uuid": "^8.3.2"
+  }
+}
